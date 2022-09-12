@@ -1,6 +1,6 @@
-# monetary_war
+# monetary_reset
 
-Visualisation of the current monetary reset key players, and their proximity to the sources of soft/fiat vs hard/free-market moneys.
+Visualisation of the current monetary reset key players, and their proximity to the sources of fiat vs market moneys.
 
 
 —
